@@ -1,0 +1,6 @@
+@Salih_ToDoApi_HostAddress = http://localhost:5272
+
+GET {{Salih_ToDoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
